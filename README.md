@@ -16,6 +16,7 @@ Generic agent tooling is out of scope unless the page directly covers harness de
 - [Benchmarks](#benchmarks)
 - [Runtimes, Harnesses & Reference Implementations](#runtimes-harnesses--reference-implementations)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Foundations
 
@@ -104,3 +105,9 @@ Contributions are welcome. Please prefer resources that are:
 - Useful to practitioners building real harnesses instead of generic AI commentary
 
 If two links say the same thing, prefer the more primary, practical, and implementation-oriented one.
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidelines and the preferred entry format.
+
+## License
+
+[CC0 1.0](./LICENSE)
